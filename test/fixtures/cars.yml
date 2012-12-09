@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  category: MyString
+  make: MyString
+  model: MyString
+  price: 
+  fuel: MyString
+  colour: MyString
+  doors: 1
+
+two:
+  category: MyString
+  make: MyString
+  model: MyString
+  price: 
+  fuel: MyString
+  colour: MyString
+  doors: 1
